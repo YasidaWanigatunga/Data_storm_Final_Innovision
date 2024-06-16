@@ -1,0 +1,71 @@
+item code,department,item_category,item_name
+item_cd_1,fresh,vegetables,carrot
+item_cd_2,fresh,vegetables,potatoes
+item_cd_3,fresh,vegetables,pumpkin
+item_cd_4,fresh,vegetables,cucumber
+item_cd_5,fresh,vegetables,green_beans
+item_cd_6,fresh,vegetables,beetroot
+item_cd_7,fresh,vegetables,capsicum
+item_cd_8,fresh,fruits,tomatoes
+item_cd_9,fresh,fruits,banana
+item_cd_10,fresh,fruits,papaya
+item_cd_11,fresh,fruits,fuji apple
+item_cd_12,fresh,fruits,green apple
+item_cd_13,fresh,fruits,pineapple
+item_cd_14,fresh,fruits,orange
+item_cd_15,fresh,fruits,grapes
+item_cd_16,fresh,fruits,mango
+item_cd_17,pet_products,pet_food,cat food
+item_cd_18,pet_products,pet_food,dog treats
+item_cd_19,pet_products,pet_food,chicken and liver treats
+item_cd_20,pet_products,pet_care,dog leash
+item_cd_21,pet_products,pet_care,slicker brush
+item_cd_22,pet_products,pet_care,pet shampoo
+item_cd_23,pet_products,pet_care,dog collar
+item_cd_24,pet_products,pet_care,cat litter
+item_cd_25,Hygiene,beauty_and_personal_care,shampoo
+item_cd_26,Hygiene,beauty_and_personal_care,conditioner
+item_cd_27,Hygiene,beauty_and_personal_care,body_wash
+item_cd_28,Hygiene,beauty_and_personal_care,facial_cleanser
+item_cd_29,Hygiene,beauty_and_personal_care,soap
+item_cd_30,Hygiene,beauty_and_personal_care,perfume
+item_cd_31,Hygiene,beauty_and_personal_care,lip_balm
+item_cd_32,Hygiene,beauty_and_personal_care,sunscreen
+item_cd_33,animal products,dairy,milk carton
+item_cd_34,animal products,dairy,vanialla ice cream
+item_cd_35,animal products,dairy,chocolate ice cream
+item_cd_36,animal products,dairy,butter
+item_cd_37,animal products,dairy,cheese slices
+item_cd_38,animal products,dairy,cheese wedges
+item_cd_39,animal products,dairy,set yogurt
+item_cd_40,animal products,dairy,drinking yogurt
+item_cd_41,lifestyle,wellness_food,protein_bars
+item_cd_42,lifestyle,wellness_food,multivitamin_bottle
+item_cd_43,lifestyle,wellness_food,smoothie_mix_6_packs
+item_cd_44,lifestyle,wellness_food,green_tea_bags_25_pack
+item_cd_45,household,wellness_products,yoga_mat
+item_cd_46,Hygiene,baby_needs,baby_soap
+item_cd_47,Hygiene,baby_needs,baby_diapers
+item_cd_48,Hygiene,baby_needs,baby_cream
+item_cd_49,Hygiene,baby_needs,baby_shampoo
+item_cd_50,household,baby_needs,silicon pacifiers
+item_cd_51,homeware,stationery,single_rule_exercise_book_120p
+item_cd_52,homeware,stationery,a5_sprial_notebook_100p
+item_cd_53,homeware,stationery,single_rule_cr_book_120p
+item_cd_54,homeware,stationery,glue_stick
+item_cd_55,homeware,stationery,highlighter_6_pack
+item_cd_56,homeware,stationery,whiteboard_marker_blue
+item_cd_57,homeware,stationery,stapler_large
+item_cd_58,homeware,stationery,ballpoint_pens_blue_6_pc
+item_cd_59,homeware,stationery,pencils_hb_6_pc
+item_cd_60,homeware,stationery,drawing_book_small_20pg
+item_cd_61,animal products,frozen_meat,chicken_breast_slices_500g
+item_cd_62,animal products,frozen_meat,chicken_sausages_150g
+item_cd_63,animal products,frozen_meat,pork_bacon_500g
+item_cd_64,animal products,frozen_meat,chicken_meatballs_250g
+item_cd_65,animal products,frozen_meat,beef_meatballs_200g
+item_cd_66,animal products,seafood,prawns
+item_cd_67,animal products,seafood,cuttlefish
+item_cd_68,animal products,seafood,tuna
+item_cd_69,animal products,seafood,seer_fish
+item_cd_70,animal products,seafood,sea crabs
